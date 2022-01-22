@@ -2,7 +2,8 @@
 A starter template for ExpressJS with Prisma in TypeScript
 
 **Using**
-- [NextJS](https://nextjs.org) v4
+- [ExpressJS](https://expressjs.com/) v4
+- [Prisma](https://www.prisma.io/) v3
 - [TypeScript](https://typescriptlang.org) v4
 
 [<img src="https://ik.imagekit.io/iutsav/fork-on-codesandbox__e0mFWzr1.png?updatedAt=1641916982302" width="200"/>](https://githubbox.com/u-barnwal/starter-expressjs-prisma-ts)
