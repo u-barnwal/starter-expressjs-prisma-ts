@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node dist/app.ts",
     "dev": "nodemon src/app.ts",
-    "build": "tsc -p ."
+    "build": "tsc -p .",
+    "db-migrate": "prisma migrate dev",
+    "db-deploy": "prisma migrate deploy"
   },
   "keywords": [],
   "author": "",
